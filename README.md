@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Eran Avichzer</h1>
-<h3 align="center">I am Full-Stack Developer with knowledge and experience writing single-page-applications using the latest web technologies such as Node.js, React.js, CSS, SASS and HTML. I graduated the Coding Academy bootcamp - 640 hours intensive coding for qualifing Full-Stack developers.</h3>
+<pre align="center">I am Full-Stack Developer with knowledge and experience writing single-page-applications using the latest web technologies such as Node.js, React.js, CSS, SASS and HTML. I graduated the Coding Academy bootcamp - 640 hours intensive coding for qualifing Full-Stack developers.</pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eranaaa&label=Profile%20views&color=0e75b6&style=flat" alt="eranaaa" /> </p>
 
