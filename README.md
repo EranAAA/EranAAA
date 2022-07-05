@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eran Avichzer</h1>
-   <h3 align="center">I am Full-Stack Developer with knowledge and experience writing single-page-applications using the
+   <h3 align="left">I am Full-Stack Developer with knowledge and experience writing single-page-applications using the
       latest web technologies such as Node.js, React.js, CSS, SASS and HTML.
       <br>
       I graduated the Coding Academy bootcamp -
