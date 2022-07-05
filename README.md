@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Eran Avichzer</h1>
    <h3 align="left">I am Full-Stack Developer with knowledge and experience writing single-page-applications using the
       latest web technologies such as Node.js, React.js, CSS, SASS and HTML.
-      <br>
+      <br><br>
       I graduated the Coding Academy bootcamp -
       640 hours intensive coding for qualifing Full-Stack developers.</h3>
 
