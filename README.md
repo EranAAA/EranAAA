@@ -1,5 +1,7 @@
    <h1 align="left">Hi, I'm Eran Avichzer</h1>
-   <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience writing SPA using the latest web technologies and I am looking for my first job.
+   <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience writing SPA using the latest web technologies 
+   <br><br>
+   and I am looking for my first job.
       <br><br>
       After 7 years as a Data Analyst in various positions I decided to pursue my dream, and graduated the Coding Academy bootcamp in 4 intensive months of 12 hours daily coding.
    </h3>
