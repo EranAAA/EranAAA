@@ -1,6 +1,6 @@
    <h1 align="left">Hi, I'm Eran Avichzer</h1>
    <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience writing SPA using the latest web technologies 
-   <span color='red'>and I am looking for my first job.<span/> 
+   <span style="text-decoration:underline">and I am looking for my first job.<span/> 
       <br><br>
       After 7 years as a Data Analyst in various positions I decided to pursue my dream, and graduated the Coding Academy bootcamp in 4 intensive months of 12 hours daily coding.
    </h3>
