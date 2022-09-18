@@ -2,7 +2,8 @@
    <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience in SPA using the latest web technologies.
    <br/> <br/>
 After 7 years as a Data Analyst in various positions I decided to pursue my dream and graduated the Coding Academy bootcamp.
-Now,
+<br/> <br/>
+   Now,
 I am volunteering as a junior full stack developer at "Junex" and working in a part-time job as full- Stack developer at Manteca.AI.
 looking for a position in a company with an interesting product.
 I'm eager to contribute to the success of that company while learning and improving my developing skills.
