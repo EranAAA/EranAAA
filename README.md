@@ -1,5 +1,6 @@
    <h1 align="left">Hi, I'm Eran Avichzer</h1>
    <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience in writing SPA using the latest web technologies.
+   <br/>
 After 7 years as a Data Analyst in various positions I decided to pursue my dream and graduated the Coding Academy bootcamp.
 Now,
 I am volunteering as a junior full stack developer at "Junex" and working in a part-time job as full- Stack developer at Manteca.AI.
