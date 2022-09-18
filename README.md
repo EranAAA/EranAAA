@@ -1,5 +1,5 @@
    <h1 align="left">Hi, I'm Eran Avichzer</h1>
-   <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience in writing SPA using the latest web technologies.
+   <h3 align="left">I am a Junior Full-Stack Developer with knowledge and experience in SPA using the latest web technologies.
    <br/>
 After 7 years as a Data Analyst in various positions I decided to pursue my dream and graduated the Coding Academy bootcamp.
 Now,
