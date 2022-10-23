@@ -25,57 +25,43 @@
 
    <div style="display: flex;gap: 20px;">
       <div>
-         <h4 align="left" style="margin: 0">Language </h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black&style=flat" />
-         </div>
+            <img align="left" valign="top" style="margin: 0; ">Language </img>
+            <img style="margin: 0; " valign="bottom" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+            <img style="margin: 0; " valign="bottom" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black&style=flat" />
       </div>
       <div>
-         <h4 align="left" style="margin: 0">Framework </h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=black&style=flat" />
-         </div>
+         <img align="left" valign="top" style="margin: 0">Framework </img>
+            <img valign="bottom" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=black&style=flat" />
       </div>
       <div>
-         <h4 align="left" style="margin: 0">State</h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat" />
-         </div>
+         <img align="left" style="margin: 0">State</img>
+            <img valign="bottom" src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat" />
       </div>
       <div>
-         <h4 align="left" style="margin: 0">Backend</h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" />
-            <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/socket.io-010101?logo=socket.io&logoColor=white&style=flat" />
-            <img src="https://img.shields.io/badge/cron-000000?logo=cron&logoColor=white&style=flat" />
-         </div>
+         <img align="left" style="margin: 0">Backend</img>
+            <img valign="bottom" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/socket.io-010101?logo=socket.io&logoColor=white&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/cron-000000?logo=cron&logoColor=white&style=flat" />
       </div>
       <div>
-         <h4 align="left" style="margin: 0">Style</h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/MUI-007FFF?&logo=MUI&logoColor=black&style=flat" />
-         </div>
+         <img align="left" style="margin: 0">Style</img>
+            <img valign="bottom" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/MUI-007FFF?&logo=MUI&logoColor=black&style=flat" />
       </div>
       <div>
-         <h4 align="left" style="margin: 0">Database</h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/MySql-4479A1?logo=MySql&logoColor=black&style=flat" />
-         </div>
+         <img align="left" style="margin: 0">Database</img>
+            <img valign="bottom" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/MySql-4479A1?logo=MySql&logoColor=black&style=flat" />
       </div>
       <div>
-         <h4 align="left" style="margin: 0">Tools</h4>
-         <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
-         </div>
+         <img align="left" style="margin: 0">Tools</img>
+            <img valign="bottom" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&style=flat" />
+            <img valign="bottom" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
       </div>
    </div>
