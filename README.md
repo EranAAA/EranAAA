@@ -21,6 +21,8 @@
       I'm eager to contribute to the success of that company while learning and improving my developing skills.
    </h4>
 
+#### Get all items
+
    <p>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
