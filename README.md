@@ -3,7 +3,7 @@
    align-items: center;
    justify-content: flex-start;
    gap: 40px;">Hi, I'm Eran Avichzer
-      <a style="height: 20px" target="#blank" href="https://www.linkedin.com/in/eran-avichzer/">
+      <a  target="#blank" href="https://www.linkedin.com/in/eran-avichzer/">
          <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat">
       </a>
    </h2>
