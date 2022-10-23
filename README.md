@@ -34,7 +34,7 @@
       <div>
          <h4 align="left" style="margin: 0">Framework </h4>
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=black&style=flat" />
          </div>
       </div>
