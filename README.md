@@ -1,4 +1,4 @@
-      <h2 align="left" style="
+   <h2 align="left" style="
    display: flex;
    align-items: center;
    justify-content: flex-start;
@@ -30,7 +30,6 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black&style=flat" />
          </div>
-
       </div>
       <div>
          <h4 align="left" style="margin: 0">Framework </h4>
