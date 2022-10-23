@@ -1,4 +1,4 @@
- <h2 align="left" style="
+  <h2 align="left" style="
    display: flex;
    align-items: center;
    justify-content: flex-start;
@@ -22,10 +22,8 @@
    </h4>
 
    <p>
-      <img alt="JavaScript"
-         src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-      <img alt="TypeScript"
-         src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
       <br />
 
       <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
@@ -35,8 +33,7 @@
       <br />
 
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-      <img alt="SQL Server"
-         src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
+      <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
       <br />
    </p>
    <!-- redux vuejs nodejs mysql git jest
