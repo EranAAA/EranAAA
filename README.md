@@ -21,6 +21,12 @@
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="eran-avichzer" height="30" width="40" /></a>
 </p>
+📫 How to reach me: <a href="[https://www.linkedin.com/in/thivagarm/](https://linkedin.com/in/eran-avichzer)">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+  />
+</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
