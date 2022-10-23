@@ -24,33 +24,37 @@
    </h4>
 
    <div>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> 
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-   <br />
-   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-   vuejs
-   <br />
-   Redux
-   MobX
-   <br />
-   Node.js
-   Express
-   cron
-   socket.io
-   axios
-   <br />
-   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
-   MUI
-   <br />
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
-   MySql
-   <br />
-   
-   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
-   
+   <h4 align="left" style="margin: 0">Language </h4>
+   <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" /> 
+   <img  src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black&style=flat" />
+  
+   <h4 align="left" style="margin: 0">Framework </h4>
+   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/Vue.js-61DAFB?logo=react&logoColor=black&style=flat" />
 
-   </div>
+   <h4 align="left" style="margin: 0">State management</h4>
+   <img  src="https://img.shields.io/badge/Redux-61DAFB?logo=react&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/MobX-61DAFB?logo=react&logoColor=black&style=flat" />
+
+   <h4 align="left" style="margin: 0">Backend</h4>
+   <img  src="https://img.shields.io/badge/Node.js-61DAFB?logo=react&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/Express-61DAFB?logo=react&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/cron-61DAFB?logo=react&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/socket.io-61DAFB?logo=react&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/axios-61DAFB?logo=react&logoColor=black&style=flat" />
+
+   <h4 align="left" style="margin: 0">Style</h4>
+   <img  src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=black&style=flat" />
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=black&style=flat"/>
+   <img  src="https://img.shields.io/badge/MUI-7952B3?&logo=bootstrap&logoColor=black&style=flat"/>
    
+   <h4 align="left" style="margin: 0">Database</h4>
+   <img  src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=black&style=flat" />
+   <img  src="https://img.shields.io/badge/MySql-CC2927?logo=microsoft+sql+server&logoColor=black&style=flat" />
+   
+   <h4 align="left" style="margin: 0">Tools</h4>
+   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&style=flat" />
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
+   
+   </div>
