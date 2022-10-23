@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Eran Avichzer</h2>
 <h4 align="left">I am a Junior Full-Stack Developer with knowledge and experience in SPA using the latest web
    technologies.
-   <br /> <br />
+   <br />
    After 7 years as a Data Analyst in various positions I decided to pursue my dream and graduated the Coding Academy
    bootcamp.
    <br /> <br />
