@@ -35,24 +35,24 @@
          <h4 align="left" style="margin: 0">Framework </h4>
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
             <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Vue.js-61DAFB?logo=react&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=black&style=flat" />
          </div>
       </div>
       <div>
          <h4 align="left" style="margin: 0">State</h4>
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/Redux-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/MobX-61DAFB?logo=react&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat" />
          </div>
       </div>
       <div>
          <h4 align="left" style="margin: 0">Backend</h4>
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
-            <img src="https://img.shields.io/badge/Node.js-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Express-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/cron-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/socket.io-61DAFB?logo=react&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/axios-61DAFB?logo=react&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/cron-000000?logo=cron&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/socket.io-010101?logo=socket.io&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=black&style=flat" />
          </div>
       </div>
       <div>
@@ -60,7 +60,7 @@
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
             <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=black&style=flat" />
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/MUI-7952B3?&logo=bootstrap&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/MUI-007FFF?&logo=MUI&logoColor=black&style=flat" />
          </div>
       </div>
       <div>
@@ -68,7 +68,7 @@
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
             <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black&style=flat" />
             <img src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/MySql-CC2927?logo=microsoft+sql+server&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/MySql-4479A1?logo=MySql&logoColor=black&style=flat" />
          </div>
       </div>
       <div>
