@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Eran Avichzer  <img
+<h2 align="left">Hi, I'm Eran Avichzer  <img align="right"
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
   />
