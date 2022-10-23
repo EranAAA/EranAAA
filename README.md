@@ -2,7 +2,7 @@
    display: flex;
    align-items: center;
    justify-content: flex-start;
-   gap: 10px;">Hi, I'm Eran Avichzer <a href="www.linkedin.com/in/eran-avichzer">
+   gap: 10px;">Hi, I'm Eran Avichzer <a href="www.linkedin.com/in/eran-avichzer/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
