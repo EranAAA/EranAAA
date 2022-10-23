@@ -2,11 +2,8 @@
    display: flex;
    align-items: center;
    justify-content: flex-start;
-   gap: 10px;">Hi, I'm Eran Avichzer <a href="www.linkedin.com/in/eran-avichzer/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  />
+   gap: 10px;">Hi, I'm Eran Avichzer 
+  <a href="www.linkedin.com/in/eran-avichzer/">/><img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
 </a>
    </h2>
    <h4 align="left">I am a Junior Full-Stack Developer with knowledge and experience in SPA using the latest web
