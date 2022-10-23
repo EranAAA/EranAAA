@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Eran Avichzer</h2>
-<h5 align="left">I am a Junior Full-Stack Developer with knowledge and experience in SPA using the latest web
+<h4 align="left">I am a Junior Full-Stack Developer with knowledge and experience in SPA using the latest web
    technologies.
    <br /> <br />
    After 7 years as a Data Analyst in various positions I decided to pursue my dream and graduated the Coding Academy
@@ -12,7 +12,7 @@
    <br />
    looking for a position in a company with an interesting product.
    I'm eager to contribute to the success of that company while learning and improving my developing skills.
-</h5>
+</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eranaaa&label=Profile%20views&color=0e75b6&style=flat"
       alt="eranaaa" /> </p>
 <h3 align="left">Connect with me:</h3>
