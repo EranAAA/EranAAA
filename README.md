@@ -49,10 +49,10 @@
          <h4 align="left" style="margin: 0">Backend</h4>
          <div style="display: flex;flex-direction: column;gap: 10px;align-items: flex-start;">
             <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/cron-000000?logo=cron&logoColor=black&style=flat" />
-            <img src="https://img.shields.io/badge/socket.io-010101?logo=socket.io&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" />
             <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=black&style=flat" />
+            <img src="https://img.shields.io/badge/socket.io-010101?logo=socket.io&logoColor=white&style=flat" />
+            <img src="https://img.shields.io/badge/cron-000000?logo=cron&logoColor=white&style=flat" />
          </div>
       </div>
       <div>
