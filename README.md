@@ -3,7 +3,7 @@
    align-items: center;
    justify-content: flex-start;
    gap: 40px;">Hi, I'm Eran Avichzer
-      <a style="height: 20px" target="#blank" valign="top" href="https://www.linkedin.com/in/eran-avichzer/">
+      <a style="height: 20px" target="_blank" valign="top" href="https://www.linkedin.com/in/eran-avichzer/">
          <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat">
       </a>
    </h1>
@@ -68,10 +68,10 @@
    </div>
    
   <h2 align="left">Projects</h2>
-  <div> Tusk - Coding Academy final project  => <a target="#blank" href="https://tusk-app.herokuapp.com/">Link</a></div>
-  <div> Schedule Your Day - smart schedule app  => <a target="#blank" href="https://schedule-your-day.herokuapp.com/">Link</a></div>
-  <div> Flights In Israel - flight board with a focus on the delays  => <a target="#blank" href="https://flights-in-israel.herokuapp.com/">Link</a></div>
-  <div> Arrive - real time train delays monitor  => <a target="#blank" href="https://app-arrive.herokuapp.com/">Link</a></div>
+  <div> Tusk - Coding Academy final project  => <a target="_blank" href="https://tusk-app.herokuapp.com/">Link</a></div>
+  <div> Schedule Your Day - smart schedule app  => <a target="_blank" href="https://schedule-your-day.herokuapp.com/">Link</a></div>
+  <div> Flights In Israel - flight board with a focus on the delays  => <a target="_blank" href="https://flights-in-israel.herokuapp.com/">Link</a></div>
+  <div> Arrive - real time train delays monitor  => <a target="_blank" href="https://app-arrive.herokuapp.com/">Link</a></div>
 
  
  
